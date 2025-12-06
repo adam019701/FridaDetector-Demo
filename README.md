@@ -1,6 +1,4 @@
-# FridaDetector-Demo
-
-# 🛡️ AntiFrida RASP
+# 🛡️ FridaDetector-Demo
 
 [![Android](https://img.shields.io/badge/Platform-Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
 [![C++](https://img.shields.io/badge/Native-C%2B%2B17-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
