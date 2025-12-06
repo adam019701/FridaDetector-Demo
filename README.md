@@ -6,7 +6,7 @@
 
 > **Runtime Application Self-Protection against Dynamic Instrumentation**
 
-A proof-of-concept demonstrating advanced runtime protection techniques for Android applications against dynamic analysis and instrumentation frameworks. This project assumes a **non-rooted environment** where an attacker attempts to inject instrumentation payloads into a running application.
+A proof-of-concept demonstrating advanced runtime protection techniques for Android applications against dynamic analysis and instrumentation frameworks.
 
 ---
 
@@ -31,7 +31,7 @@ Scans process memory (`/proc/self/maps`) for suspicious artifacts using **direct
 - GLib type system markers (`GObject`, `GMainLoop`, `GThread`)
 - JavaScript engine signatures (V8, QuickJS)
 - Fake JIT cache regions (`[anon:jit-cache]` without `dalvik` prefix)
-- Deleted file mappings (`(deleted)`)
+- Deleted file mappings
 - `memfd:` backed executables
 
 ### Native Integrity Verification
