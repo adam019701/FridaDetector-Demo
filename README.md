@@ -7,7 +7,7 @@
 
 > **Runtime Application Self-Protection against Dynamic Instrumentation**
 
-A proof-of-concept demonstrating advanced runtime protection techniques for Android applications against dynamic analysis and instrumentation frameworks. This project assumes a **non-rooted environment** where an attacker attempts to inject instrumentation payloads into a running application.
+A proof-of-concept demonstrating advanced runtime protection techniques for Android applications against dynamic analysis and instrumentation frameworks.
 
 ---
 
